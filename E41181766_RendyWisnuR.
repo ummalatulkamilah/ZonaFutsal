@@ -1,0 +1,22 @@
+<!--Buka--!>
+
+<html>
+
+<!--Ini Code Judul--!>
+<title>
+  <h1>Judul</h1>
+</title>
+
+<!--Ini Code Body--!>
+<body>
+  <h2>Sub Judul</h2>
+  
+<!--Paragraf--!>    
+    
+    <p>
+      Ini isinya, berisi kosong, alias tidak ada isinya, HIYA hiya hIyA !!!
+    </p>
+    
+<!--Tutup--!>
+</body>
+</html>
